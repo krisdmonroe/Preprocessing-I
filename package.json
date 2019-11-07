@@ -1,0 +1,24 @@
+{
+  "name": "preprocessing-i",
+  "version": "1.0.0",
+  "description": "For this project you will be building a digital resume from scratch. You will be required to use specific preprocessing skills to accomplish your tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "less-watch-compiler less css index.less"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krisdmonroe/Preprocessing-I.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krisdmonroe/Preprocessing-I/issues"
+  },
+  "homepage": "https://github.com/krisdmonroe/Preprocessing-I#readme",
+  "dependencies": {
+    "less-watch-compiler": "^1.14.1",
+    "node-sass": "^4.13.0"
+  }
+}
